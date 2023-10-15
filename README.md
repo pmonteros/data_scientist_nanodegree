@@ -24,4 +24,4 @@ The project consists of a simple notebook on which the code was developed.
 
 ### Medium Blog
 
-The main findings were written in [X](https://medium.com/@pablo.montero.salvatierra/how-data-could-help-us-detect-cardiovascular-diseases-cb173c1a2f52)https://medium.com/@pablo.montero.salvatierra/how-data-could-help-us-detect-cardiovascular-diseases-cb173c1a2f52 , which will be strengthened over time.
+The main findings were written in (https://medium.com/@pablo.montero.salvatierra/how-data-could-help-us-detect-cardiovascular-diseases-cb173c1a2f52) , which will be strengthened over time.
