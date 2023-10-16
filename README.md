@@ -25,3 +25,13 @@ The project consists of a simple notebook on which the code was developed.
 ### Medium Blog
 
 The main findings were written in (https://medium.com/@pablo.montero.salvatierra/how-data-could-help-us-detect-cardiovascular-diseases-cb173c1a2f52) , which will be strengthened over time.
+
+### Licensing, Authors, and Acknowledgements
+
+Data Source: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+
+Acknowledgements to macrovector and kjpargeter:
+- https://www.freepik.es/vector-gratis/composicion-dibujos-animados-habitos-estilo-vida-saludable-mujeres-no-fumadoras-que-practican-dieta-sueno-8-horas-yoga-aliviar-estres_14665907.htm#query=vida%20saludable&position=1&from_view=search&track=ais Image by macrovector On Freepik
+-https://www.freepik.es/foto-gratis/diseno-corazon-humano_879663.htm#query=cardiovascular&position=2&from_view=search&track=sph Image by kjpargeter on Freepik
+
+
