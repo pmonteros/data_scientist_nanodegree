@@ -24,22 +24,22 @@ In this project, I applied the skills learned in this course, particularly those
 
 This work consists of the following folders.
 
-app
-    *-templates
-        *-go.html #classification result in app web
-        *-master.html #main page
-    *-run.py #to run app web
+## app
+- templates
+  - go.html #classification result in app web
+  - master.html #main page
+- run.py #to run app web
 
-data
-    -disaster_categories.csv #data
-    -disaster_messages.csv #data
-    -DisasterResponse.db #database to save clean data
-    -process_data #cleaning process
-    -YourDataBaseName.db #database to save clean data
+## data
+- disaster_categories.csv #data
+- disaster_messages.csv #data
+- DisasterResponse.db #database to save clean data
+- process_data #cleaning process
+- YourDataBaseName.db #database to save clean data
 
-models
-    -train_classifier.py #pipeline ML
-    -classifier-pkl #saved classifier 
+## models
+- train_classifier.py #pipeline ML
+- classifier-pkl #saved classifier
 
 ### Screenshot App Web
 
