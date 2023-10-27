@@ -43,7 +43,8 @@ This work consists of the following folders.
 
 ### Screenshot App Web
 
-
+![Test1](disaster1.PNG)
+![Test2](training.PNG)
 
 ### Licensing, Authors, and Acknowledgements
 
