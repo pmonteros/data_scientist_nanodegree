@@ -22,13 +22,13 @@ In this project, I applied the skills learned in this course, particularly those
 
 ### File Description
 
-Este trabajo se compone de las carpetas
+This work consists of the following folders.
 
 app
-    -templates
-        -go.html #classification result in app web
-        -master.html #main page
-    -run.py #to run app web
+    *-templates
+        *-go.html #classification result in app web
+        *-master.html #main page
+    *-run.py #to run app web
 
 data
     -disaster_categories.csv #data
