@@ -43,9 +43,16 @@ This work consists of the following folders.
 
 ### Screenshot App Web
 
-![Test1](disaster1.PNG)
-![Test2](training.PNG)
+![Screenshot 1](disaster1.PNG)
+![Screenshot 2](training.PNG)
 
+### How to use?
+
+    - To run ETL pipeline that cleans data and stores in database
+        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+    - To run ML pipeline that trains classifier and saves
+        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+        
 ### Licensing, Authors, and Acknowledgements
 
 Acknowledgements to data-science nanodegree course for the template codes.
