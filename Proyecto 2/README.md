@@ -18,7 +18,7 @@ pickle
 
 ### Project Motivation
 
-In this project, I applied the skills learned in this course, particularly those related to 'Data Engineering.' The goal was to create a classifier to categorize real messages sent during disastrous events. Additionally, the project includes a web application with which it is possible to interact.
+In this project, I applied the skills learned in this course, particularly those related to 'Data Engineering.' The goal was to create a classifier to categorize real messages sent during disastrous events. Additionally, the project includes a web application with which it is possible to interact. This application will allow sending messages to specialized agencies for the required assistance.
 
 ### File Description
 
