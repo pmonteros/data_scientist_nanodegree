@@ -44,7 +44,7 @@ This work consists of the following folders.
 ### Screenshot App Web
 
 ![Screenshot 1](disaster1.PNG)
-![Screenshot 2](training.PNG)
+![Screenshot 2](main.PNG)
 
 ### How to use?
 
