@@ -43,6 +43,11 @@ def index():
     genre_counts = df.groupby('genre').count()['message']
     genre_names = list(genre_counts.index)
     
+    medical_help_counts =df.groupby('medical_help').count()['message']
+    medical_names = list(medical_help_counts.index)
+    
+    earthquake_counts =df.groupby('earthquake').count()['message']
+    earthquake_names = list(earthquake_counts.index)
     # create visuals
     # TODO: Below is an example - modify to create your own visuals
     graphs = [
@@ -64,8 +69,47 @@ def index():
                 }
             }
         }
+        ,
+        {
+            'data': [
+                Bar(
+                    x=medical_names,
+                    y=medical_help_counts
+                )
+            ],
+
+            'layout': {
+                'title': 'Distribution of Medical Help Messages',
+                'yaxis': {
+                    'title': "Count"
+                },
+                'xaxis': {
+                    'title': "Medical Help?"
+                }
+            }
+        }
+        ,
+        {
+            'data': [
+                Bar(
+                    x=earthquake_names,
+                    y=earthquake_counts
+                )
+            ],
+
+            'layout': {
+                'title': 'Distribution of Earthquakes Messages',
+                'yaxis': {
+                    'title': "Count"
+                },
+                'xaxis': {
+                    'title': "Earthquake?"
+                }
+            }
+        }
     ]
     
+
     # encode plotly graphs in JSON
     ids = ["graph-{}".format(i) for i, _ in enumerate(graphs)]
     graphJSON = json.dumps(graphs, cls=plotly.utils.PlotlyJSONEncoder)
