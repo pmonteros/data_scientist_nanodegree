@@ -19,6 +19,8 @@ In this project, an exploratory data analysis is conducted, and models are built
 
 This project consists of a notebook in which the entire methodology learned in this course is applied. Specifically, classifiers are developed.
 
+Look https://medium.com/@pablo.montero.salvatierra/sparkify-spotify-d97320b63714 to see a overview of this work
+
 ## Licensing, Authors, and Acknowledgements
 
 I want to express my gratitude primarily to the course for equipping me with the essential tools to develop my skills as a Data Scientist. Additionally, I'd like to thank ChatGPT, as it has enabled me to carry out the necessary translations, considering that English is not my native language.
